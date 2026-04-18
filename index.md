@@ -5,12 +5,12 @@
 
 ---
 
-> 🟢 **Status:** Recently graduated Ph.D. (March 2026). Actively seeking **Software Engineer III (L4)** or **ICT4** roles in Systems, Networking, and Infrastructure.
+> 🟢 **Status:** Recently graduated Ph.D. (March 2026). Actively seeking **Software Engineer roles in Systems, Networking, and Infrastructure.
 
 ---
 
 ## 🔬 About Me
-I am a Systems and Networking researcher who recently earned my Ph.D. from UC Riverside, advised by [Dr. Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). My work focuses on making the global internet faster and more secure through "client-side only" deployment—engineering solutions that deliver order-of-magnitude performance gains without requiring changes to global infrastructure.
+I am a Systems and Networking researcher who recently earned my Ph.D. from UC Riverside, advised by . My work focuses on making the global internet faster and more secure through "client-side only" deployment—engineering solutions that deliver order-of-magnitude performance gains without requiring changes to global infrastructure.
 
 My research journey follows a narrative of **Discovery $\rightarrow$ Innovation**: I first diagnosed the "hidden" infrastructure-level bottlenecks of the global internet (**The Great Bottleneck**) and subsequently engineered a protocol-level booster (**Oak**) to overcome them, achieving a **12x throughput increase** on high-loss links.
 
