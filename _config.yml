@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pengxiong Zhu"
+title                    : "Dr. Pengxiong Zhu"
 title_separator          : "-"
 name                     : &name "Pengxiong Zhu"
-description              : &description "personal description"
+description              : &description "Ph.D. in Computer Science | Systems & Network Security Researcher at University of California, Riverside"
 url                      : https://zpx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zpx2012/zpx.github.io"
+repository               : "zpx.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
